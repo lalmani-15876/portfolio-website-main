@@ -1,2 +1,2 @@
 portfolio website created using react.
-website link: https://parijat-millind.github.io/portfolio-website/
+website link: https://lalmani-15876.github.io/portfolio-website-main/
